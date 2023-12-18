@@ -1,4 +1,4 @@
-=== WooCommerce: provincias y municipios para Cuba ===
+=== WC: provincias y municipios para Cuba ===
 
 Contributors: chitezh.
 Tags: woocommerce, locations, states, cities, provinces, departments, municipalities, provincias, municipios, cuba
@@ -22,7 +22,7 @@ Additionally, it adds the Provinces to the **Shipping Zones** (Cities are not co
 
 == Available filter hooks ==
 
-**WooCommerce: provincias y municipios para Cuba** has two filter hooks for handling the States and Places in all the available countries:
+**WC: provincias y municipios para Cuba** has two filter hooks for handling the States and Places in all the available countries:
 
 * `wc_custom_provinces_cu`: It allows you to handle the Provinces of Cuba.
 * `wc_custom_municipalities_cu`: It allows you to handle the Municipalities of Cuba.
@@ -32,7 +32,7 @@ Additionally, it adds the Provinces to the **Shipping Zones** (Cities are not co
 = Automatic installation =
 
 1. Go to your **Dashboard » Plugins » Add new**
-2. In the search form write **"WooCommerce: provincias y municipios para Cuba"**
+2. In the search form write **"WC: provincias y municipios para Cuba"**
 3. When the search return the result, click on the **Install Now** button
 4. Finally, click on the **Activate** button
 5. Enjoy the plugin!

@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Plugin Name: WooCommerce: provincias y municipios para Cuba
- * Plugin URI:
- * Description:
+ * Plugin Name: WC: provincias y municipios para Cuba
+ * Plugin URI: https://github.com/wilfre90dev/wc-cuba-places
+ * Description: This plugin adds Provinces and Municipalities of Cuba to the *State* and *City* fields of the *WooCommerce* address forms, making possible to select Cuban places.
  * Version: 1.0
  * Author: Wilfredo Palma
  * Author URI: https://github.com/wilfre90dev

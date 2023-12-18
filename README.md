@@ -1,4 +1,4 @@
-# WooCommerce: provincias y municipios para Cuba
+# WC: provincias y municipios para Cuba
 
 ## Description
 This WordPress plugin enhances the **WooCommerce** checkout process by adding dropdowns for **Provinces** and **Municipalities** in **Cuba**, making the address fields filterable and improving the **user experience**. It also integrates Provinces into the **Shipping Zones**. Additionally, it adds the Provinces to the **Shipping Zones** (Cities are not compatible with this area).
@@ -12,7 +12,7 @@ This WordPress plugin enhances the **WooCommerce** checkout process by adding dr
 ## Installation
 ### Automatic Installation
 1. Navigate to **Dashboard » Plugins » Add new**.
-2. Search for **"WooCommerce: provincias y municipios para Cuba"**.
+2. Search for **"WC: provincias y municipios para Cuba"**.
 3. Click **Install Now** when it appears.
 4. Activate the plugin and enjoy!
 
