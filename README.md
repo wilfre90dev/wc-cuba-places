@@ -1,72 +1,42 @@
-=== WooCommerce: provincias y municipios para Cuba ===
+# WooCommerce: provincias y municipios para Cuba
 
-Contributors: chitezh.
+## Description
+This WordPress plugin enhances the **WooCommerce** checkout process by adding dropdowns for **Provinces** and **Municipalities** in **Cuba**, making the address fields filterable and improving the **user experience**. It also integrates Provinces into the **Shipping Zones**. Additionally, it adds the Provinces to the **Shipping Zones** (Cities are not compatible with this area).
 
-Tags: woocommerce, locations, states, cities, provinces, departments, municipalities, provincias, municipios, cuba
+## Features
+- **Dropdown Selection**: Adds Provinces and Municipalities to the State and City fields.
+- **Filter Hooks**: 
+- Includes `wc_custom_provinces_cu` and `wc_custom_municipalities_cu` for customization.
+- **Shipping Zone Integration**: Provinces are added to Shipping Zones for better logistics handling.
 
-Stable tag: 1.0
+## Installation
+### Automatic Installation
+1. Navigate to **Dashboard » Plugins » Add new**.
+2. Search for **"WooCommerce: provincias y municipios para Cuba"**.
+3. Click **Install Now** when it appears.
+4. Activate the plugin and enjoy!
 
-Requires at least: 4.0
+### Manual Installation
+1. Click **Download** on this page.
+2. In the Dashboard, go to **Plugins » Add new** and select **Upload Plugin**.
+3. Choose the downloaded file, install, and activate.
 
-Tested up to: 5.9
+### FTP Installation
+1. Download and decompress the plugin.
+2. Use FTP to upload it to `[root folder]/wp-content/plugins/`.
+3. Activate it through the Dashboard.
 
-Requires PHP: 7.0
+## Changelog
+- **1.0 (December 1, 2023)**: Initial release.
 
-WC requires at least: 3.0.x
+## Acknowledgements
+Special thanks to all contributors and users for supporting this project.
+- chitezh.
 
-WC tested up to: 8.3
-
-License: GPLv2 or later
-
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-
-WordPress plugin that shows dropdowns for Provinces and Municipalities Select for WooCommerce.
-
-== Description ==
-
-This plugin adds locations of **Cuba** to the **State** and **City** fields of the **WooCommerce** address forms, making the fields filterable to enhance the **user experience**.
-
-Additionally, it adds the Provinces to the **Shipping Zones** (Cities are not compatible with this area).
-
-== Available filter hooks ==
-
-**WooCommerce: provincias y municipios para Cuba** has two filter hooks for handling the States and Places in all the available countries:
-
-* `wc_custom_provinces_cu`: It allows you to handle the Provinces of Cuba.
-* `wc_custom_municipalities_cu`: It allows you to handle the Municipalities of Cuba.
-
-== Installation ==
-
-= Automatic installation =
-
-1. Go to your **Dashboard » Plugins » Add new**
-2. In the search form write **"WooCommerce: provincias y municipios para Cuba"**
-3. When the search return the result, click on the **Install Now** button
-4. Finally, click on the **Activate** button
-5. Enjoy the plugin!
-
-= Manual Installation = 
-1. Download the plugin from this page clicking on the **Download** button
-2. Go to your **Dashboard » Plugins » Add new**
-3. Now select **Upload Plugin** button
-4. Click on **Select file** button and select the file you just download
-5. Click on **Install Now** button and the **Activate Plugin**
-6. Enjoy the plugin!
-
-= FTP Installation =
-1. Download the plugin from this page clicking on the **Download** button
-2. Decompress the file in your desktop
-3. Run your FTP client software and connect to your WordPress installation
-4. Copy to [root folder]/wp-content/plugins/ the plugin directory you just decompress
-5. Go to your Dashboard » Plugins » Find the plugin and click on **Activate** option
-6. Enjoy the plugin!
-
-== Screenshots ==
-1. In this screenshot you can see the plugin in action.
+## Thanks
+Enjoy enhancing your WooCommerce experience with this plugin! 🛒
 
 
-== Changelog ==
-
-= 1.0 - December 1, 2023 =
-* First release.
+##  Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://wilfre90dev.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilfredopalma/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BdLkzHF2HQRi2SZHWw62vBQ%3D%3D)
